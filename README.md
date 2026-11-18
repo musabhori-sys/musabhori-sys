@@ -1,6 +1,6 @@
 # Hi, I'm Musab Hori 👋
 
-**Platform Consultant at 10Pearls** | Oracle APEX & PL/SQL Developer | Karachi, Pakistan
+**Platform Consultant at 10Pearls** | Oracle APEX Developer | Karachi, Pakistan
 
 I have 5+ years of experience building business applications on the Oracle stack, from designing database logic in PL/SQL to delivering complete APEX applications and reports for finance, education, and logistics organizations.
 
@@ -23,7 +23,7 @@ I have 5+ years of experience building business applications on the Oracle stack
 
 ## 🎓 Education
 
-BS in Computer Software Engineering, Sindh Institute of Management & Technology (in progress)
+BS in Computer Science, Sindh Institute of Management & Technology (in progress)
 
 ## 📫 Connect with me
 
